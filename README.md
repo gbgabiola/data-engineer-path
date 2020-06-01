@@ -1,18 +1,18 @@
-# Data Scientist Path
+# Data Engineer Path
 
-**Data scientist** is a specialist who applies their expertise in statistics and building machine learning models, enriched with programming, to make predictions and answer key business questions. Data scientists tackle more open-ended questions, leveraging their knowledge of advanced statistics and algorithms. They bring new approach and perspective to data, raising new questions and creating sophisticated analytical models to derive new insights from data. They also exhibit business acumen and domain knowledge in order to provide in-depth analysis, to derive accurate predictions, to recommend actionable insights, and to present insights in a way that is understandable by business stakeholders.
+**Data engineer** builds and manages data workflows, pipelines, ETL processes, and platforms. Data engineers are mainly responsible for management of the entire data lifecycle: ingestion, processing, surfacing, and storage. They leverage their in-depth knowledge of programming, databases, data warehousing, ETL, and data architecture and pipelining, to use complex tools and techniques to handle data at scale. They also deploy machine learning and statistical models in production. This requires data engineers to understand analytics and business intelligence, together with various frameworks and technologies.
 
 For this learning pathway, you will be trained across the following competencies:
 
-- Statistical Techniques
-- Data Analytics Methods and Algorithms
-- Computing
+- Data Engineering
 - Operational Analytics
+- Data Governance
+- Computing
+- Data Visualization
+- Data Analytics Methods and Algorithms
+- Statistical Techniques
 - Research Methods
 - Domain Knowledge
-- Data Governance
-- Data Visualization
-- Data Engineering
 
 
 ## Core Courses
@@ -23,13 +23,11 @@ For this learning pathway, you will be trained across the following competencies
 - [ ] Computing in Python
 - [ ] SQL for Business Users
 - [ ] Data Management Fundamentals
+- [ ] Enterprise Data Governance
 - [ ] Dashboards and Drill-Down Analytics
 - [ ] Data Visualization Fundamentals
-- [ ] Data Visualization using Python and Tableau
-- [ ] Storytelling using Data
 - [ ] Data-Driven Research Fundamentals
-- [ ] Experimental Design and Analysis
-- [ ] Statistical Analysis and Modeling using Excel
-- [ ] Statistical Analysis and Modeling using SQL and Python
+- [ ] SQL for Data Engineering
+- [ ] Python for Data Engineering
+- [ ] Advanced Data Engineering
 - [ ] Data Science and Machine Learning using Python
-- [ ] Deep Learning using Python
