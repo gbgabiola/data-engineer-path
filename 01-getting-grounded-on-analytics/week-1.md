@@ -1,4 +1,12 @@
-# Getting Grounded on Analytics
+# Analytics, the Data Value Chain, and the Analytics Roles
+
+- [Data Value Chain](#data-value-chain)
+- [Common Analytics Terminologies](#common-analytics-terminologies)
+- [The Analytics Job Families](#the-analytics-job-families)
+- [Decision Support Systems](#decision-support-systems)
+- [Analytics Defined](#analytics-defined)
+- [Assessment](#assessment)
+- [Summary (Key Take-Away Points)](#summary-key-take-away-points)
 
 
 ## Data Value Chain
