@@ -4,6 +4,8 @@
 - [The DELTA+ Model](#the-delta-model)
 - [The Stages of Analytical Maturity](#the-stages-of-analytical-maturity)
 - [Grow Your Organization's Analytical Maturity](#grow-your-organizations-analytical-maturity)
+- [Assessment](#assessment)
+- [Summary](#summary)
 
 
 ## Industry Standard for Organizational Maturity
@@ -137,3 +139,85 @@ machine learning.
 - "Analytics at Work: Smarter Decisions, Better Results" book
 - by Davenport, Harris, and Morison
 - provides excellent blueprints for this maturity journey as they show how each element could transition from one maturity level to another
+
+
+## Assessment
+
+At this maturity model, the organization applies analytics regularly but its strategic focus is not grounded in analytics.
+
+- [ ] Analytically Impaired
+- [ ] Analytical Aspirations
+- [x] Analytical Organizations
+- [ ] Analytical Competitors
+
+At the highest maturity level, this DELTA+ component is relentlessly searched for by an organization and is considered as a strategic asset.
+
+- [x] Data
+- [ ] Leadership
+- [ ] Targets
+- [ ] Analytics Professionals
+
+At the highest maturity level, this DELTA+ component shows passion for analytical competition.
+
+- [ ] Data
+- [ ] Targets
+- [x] Leadership
+- [ ] Analytics Professionals
+
+At the highest maturity level, this DELTA+ component suggests the presence of enterprise-wide big data and analytics infrastructure.
+
+- [ ] Data
+- [ ] Enterprise
+- [x] Technology
+- [ ] Analytical Techniques
+
+At the highest maturity level, this DELTA+ component talks about more sophisticated ways of doing advanced analytics.
+
+- [ ] Data
+- [ ] Enterprise
+- [ ] Technology
+- [x] Analytical Techniques
+
+Managing key data, technology, and analytics professionals from an organization-wide perspective is a concern of this DELTA+ component.
+
+- [ ] Analytics Professionals
+- [ ] Technology
+- [ ] Analytical Techniques
+- [x] Enterprise
+
+Behaving analytically and showing passion for analytical competition is a concern of this DELTA+ component.
+
+- [ ] Analytics Professional
+- [x] Leadership
+- [ ] Targets
+- [ ] Enterprise
+
+Analytical organization have this DELTA+ component who fully embrace Analytics and lead company culture toward data-driven decision-making.
+
+- [ ] Data
+- [x] Leadership
+- [ ] Targets
+- [ ] Analytics Professionals
+
+At the highest maturity level, this DELTA+ component become embedded in the strategic planning process and are considered business initiatives and not just Analytics initiatives.
+
+- [ ] Data
+- [ ] Leadership
+- [x] Targets
+- [ ] Analytics Professionals
+
+Keeping practitioners motivated with creative and challenging projects is a concern of this DELTA+ component.
+
+- [x] Analytics Professional
+- [ ] Technology
+- [ ] Analytical Techniques
+- [ ] Enterprise
+
+
+## Summary
+
+- The Organizational Maturity Model is a tool to assess an organization’s process capability in Analytics
+- Truly analytical organizations have three hallmarks:
+  - Analytics is embedded in the major processes of an organization, the "workhorse" activities of the enterprise
+  - They build and continually reinforce a culture of analytical decisions, a "test and learn" philosophy, and a commitment to fact-based decision making
+  - Never satisfied, and always mindful of how conditions change, they continually review their assumptions and analytical models
