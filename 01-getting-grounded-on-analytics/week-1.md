@@ -180,9 +180,9 @@ They utilize data and leverage on derived insights to help organizations make be
 
 This is normally associated with how data should be used ethically in the organization.
 
-- [ ] Data
+- [x] Data
 - [ ] Information
-- [x] Insights (incorrect)
+- [ ] Insights
 - [ ] Imperatives
 
 This is the primary question answered by Predictive Analytics.
