@@ -64,3 +64,4 @@ to 20%
     - if they do affect decision making, to what degree do they affect that decision
   - after several iterations, able to come up with a formula to score a potential customer's decision to buy
   - in formula: determined that gender, generation, and income level contributed equally to the decision-making process of customers, but that location doesn't matter at all
+
